@@ -1,5 +1,5 @@
-- Name - Pramod
-- Author - Pramod
+- Name - hymavathi
+- Author - hyma
 
 ### Web Automation Framework with POM in Python(Selenium)
 - Python, PyTest
